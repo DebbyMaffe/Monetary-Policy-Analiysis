@@ -12,8 +12,8 @@ Then, it could be usefull to create:
 In particular:
 * The majority of MIR dataset consists of continuous attributes (about 95.65%), representing the monthly interest rates collected from 2014-01 to 2023-02. The remaining features (about 4.35%) refer to:
 
-*   ***Country*** in the Euro Area, where company is domiciled;
-*   ***Type of Loans***, describing the different financial instruments composition; 
-*   ***Maturity***, the date on which the term of the loan expires;
-*   ***BS Counterpart Sector***, revealing the sector in which the institutions are involved in;
-*   ***IR Business Coverage***, reflecting the extent to which services and other resources have been used during the financial year, based on loan volume. 
+  *   ***Country*** in the Euro Area, where company is domiciled;
+  *   ***Type of Loans***, describing the different financial instruments composition; 
+  *   ***Maturity***, the date on which the term of the loan expires;
+  *   ***BS Counterpart Sector***, revealing the sector in which the institutions are involved in;
+  *   ***IR Business Coverage***, reflecting the extent to which services and other resources have been used during the financial year, based on loan volume. 
