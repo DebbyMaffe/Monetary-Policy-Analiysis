@@ -10,6 +10,7 @@ Then, it could be usefull to create:
 * the **MIR dataset** used for the analysis of monetary *developments* and the monetary *transmission* mechanism as well as for the monitoring of *financial* **stability**;
 * the **BSI statistics** based on either the *aggregated* or the *consolidated* balance sheet of the monetary financial institutions (MFIs) sector.
 
+
 **MIR dataset**
 
 The majority of MIR dataset consists of continuous attributes (about 95.65%), representing the monthly interest rates collected from 2014-01 to 2023-02. The remaining features (about 4.35%) refer to:
@@ -24,6 +25,7 @@ Regarding the financial instruments composition of the MIR dataset, let's includ
 2.   ***Lending for House Purchases***, loans granted for the purposes of investing in housing for own use or rental, or for the purchase of land;
 3.   ***Credit for Consumption Other Lending***,  loans for consumption or granted to households for business, debt consolidation, education purposes;
 4.   ***Extended Credit***, the amount of convenience credit left outstanding on the account after the relevant billing date.
+
 
 **BSI dataset**
 
